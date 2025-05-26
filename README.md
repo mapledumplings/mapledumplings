@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Steven Coulson!
+### Hi there 👋 I'm Steven Coulson! (he/him)
 
 🎓 I'm a high school student passionate about coding, problem-solving, and building cool projects with code.  
 💻 I've taken AP Computer Science Principles and AP Computer Science A.  
