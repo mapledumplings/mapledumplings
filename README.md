@@ -7,7 +7,7 @@
 
 ### 🔧 Technologies & Tools
 - Languages: Python, Java, C#
-- Tools: Git & GitHub, VS Code, Pycharm
+- Tools: Git & GitHub, VS Code, Pycharm, Jupyter Notebook
 - Currently learning: Machine Learning, Python, Game Development
 
 ### 📂 Projects
