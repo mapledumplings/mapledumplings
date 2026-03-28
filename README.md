@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Steven Coulson! (he/him)
 
 🎓 I'm a high school student passionate about coding, problem-solving, and building cool projects with code.  
-💻 I've taken AP Computer Science Principles and AP Computer Science A.  
+💻 I've taken AP Computer Science Principles, AP Computer Science A, and Electronics.  
 🚀 I'm currently exploring Python and machine learning through online courses.   
 📚 Constantly learning.
 
