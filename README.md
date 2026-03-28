@@ -3,7 +3,7 @@
 🎓 I'm a high school student passionate about coding, problem-solving, and building cool projects with code.  
 💻 I've taken AP Computer Science Principles and AP Computer Science A.  
 🚀 I'm currently exploring Python and machine learning through online courses.   
-📚 Constantly learning — currently diving deeper into data structures and algorithms.
+📚 Constantly learning.
 
 ### 🔧 Technologies & Tools
 - Languages: Python, Java, C#
