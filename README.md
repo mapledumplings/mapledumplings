@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Steven Coulson! (he/him)
 
-🎓 I'm a high school student passionate about coding, problem-solving, and building cool projects with code.  
+🎓 I'm a freshman at the University of Illinois Urbana-Champaign, majoring in Electrical Engineering, but I code on the side.  
 💻 I've taken AP Computer Science Principles, AP Computer Science A, and Electronics.  
 🚀 I'm currently exploring Python and machine learning through online courses.   
 📚 Constantly learning.
